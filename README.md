@@ -1,6 +1,6 @@
-# UnityGit
+# Unity and Github Integration
 
-This repository was made to explain how to use Git and Git LFS with Unity projects to be able to use Github normally through the Git Bash terminal.
+This repository was made to explain how to use Git and Git LFS with Unity projects, especially projects that contain large files, to be able to use Github normally through the Git Bash terminal.
 
 First, you have to move these two files which are uploaded to the repo local destination:
 - .gitattributes
