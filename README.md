@@ -5,6 +5,7 @@ This repository was made to explain how to use Git and Git LFS with Unity projec
 First, you have to move these two files which are uploaded to the repo local destination:
 - .gitattributes
 - .gitignore
+
 Since they do contain shortcuts for the types of files that are usually used in LFS.
 
 Move the files to the directory which you want to initiate the repo in.
