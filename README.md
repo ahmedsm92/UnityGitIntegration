@@ -21,7 +21,7 @@ Write the following commands to initiate the repository, choose the branch name 
  
  Write the following command to identify the URL of the repository created in your account:
 ```
- git remote add origin https://github.com/ahmedsm92/ChairsFactory.git
+ git remote add origin [REPO_URL]
  ```
  git branch -M main
 ```
