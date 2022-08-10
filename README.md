@@ -19,9 +19,12 @@ Write the following commands to initiate the repository, choose the branch name 
 
  git lfs track "*.psd"
  
+```
  Write the following command to identify the URL of the repository created in your account:
 ```
  git remote add origin [REPO_URL]
+ ```
+ To choose the branch (here we're choosing the main branch):
  ```
  git branch -M main
 ```
