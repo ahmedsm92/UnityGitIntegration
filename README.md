@@ -23,7 +23,6 @@ Write the following commands to initiate the repository, choose the branch name 
 ```
  git remote add origin https://github.com/ahmedsm92/ChairsFactory.git
  ```
-
  git branch -M main
 ```
 
