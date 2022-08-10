@@ -14,26 +14,27 @@ Write the following commands to initiate the repository, choose the branch name 
 
 ```
  git lfs install
-
- git lfs track "*.psd"
-
+ 
  git init
 
- git add README.md
-
- git commit -m "initial commit"
-
- git branch -M main
-```
-Write the following command to identify the URL of the repository created in your account:
+ git lfs track "*.psd"
+ 
+ Write the following command to identify the URL of the repository created in your account:
 ```
  git remote add origin https://github.com/ahmedsm92/ChairsFactory.git
  ```
+
+ git branch -M main
+```
 
 Write the following command to add the recently added files to the repository:
 ```
  git add .
  ```
+ To commit to the previously selected branch:
+ ```
+  git commit -m "initial commit"
+```
  
 Write the following command to push to the chosen branch:
 ```
